@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>No Research</name>
+  <author>James Pham</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>jamespham.noresearch</packageId>
+  <description>
+    Starting a new game without any research.
+
+    - &lt;b&gt;New Ancient Tribe:&lt;/b&gt; Basically 'New Tribe' without any research.
+    - &lt;b&gt;New Jungle Mans:&lt;/b&gt; 'New Tribe' without any research, plus Medieval starting tech level.
+    - &lt;b&gt;New Abandoned Arrivals:&lt;/b&gt; Basically 'New Arrivals' without any research.
+  </description>
+</ModMetaData>
