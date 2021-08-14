@@ -22,7 +22,6 @@
 		</backstoryCategories>
 		<factionIconPath>World/WorldObjects/Expanding/Village</factionIconPath>
 		<settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
-		<pawnNameMaker>NamerPersonTribal</pawnNameMaker>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
     <factionNameMaker>NamerFactionTribal</factionNameMaker>
     <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
@@ -30,9 +29,6 @@
     <forageabilityFactor>1.7</forageabilityFactor>
 		<startingResearchTags>
     </startingResearchTags>
-    <hairTags>
-      <li>Tribal</li>
-    </hairTags>
     <apparelStuffFilter>
       <thingDefs>
         <li>Cloth</li>
@@ -57,7 +53,6 @@
 		</backstoryCategories>
 		<factionIconPath>World/WorldObjects/Expanding/Village</factionIconPath>
 		<settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
-		<pawnNameMaker>NamerPersonTribal</pawnNameMaker>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
     <factionNameMaker>NamerFactionTribal</factionNameMaker>
     <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
@@ -65,9 +60,6 @@
     <forageabilityFactor>1.7</forageabilityFactor>
 		<startingResearchTags>
     </startingResearchTags>
-    <hairTags>
-      <li>Tribal</li>
-    </hairTags>
     <apparelStuffFilter>
       <thingDefs>
         <li>Cloth</li>
@@ -97,9 +89,6 @@
     <geneticVariance>1</geneticVariance>
 		<startingResearchTags>
 		</startingResearchTags>
-		<hairTags>
-			<li>Urban</li>
-		</hairTags>
 		<apparelStuffFilter>
 			<thingDefs>
 				<li>Synthread</li>
